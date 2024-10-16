@@ -4,7 +4,7 @@
   Define terms and link to docs.github.com.
 -->
 
-## Step 4: Personalize your codespace!
+## Step 4: Personalize your codespace! 🎨
 
 _Nicely done customizing your codespace!_ :partying_face:
 
@@ -16,7 +16,7 @@ When using any development environment, customizing the settings and tools to yo
 
 Let's see how this works!
 
-### :keyboard: Activity: Enable a `dotfile` for your codespace
+### :keyboard: Activity: Enable a `dotfile` for your codespace 🛠️
 
 1. Start from the landing page of your repository.
 1. In the upper-right corner of any page, click your profile photo, and then click **Settings**.
@@ -24,7 +24,7 @@ Let's see how this works!
 1. Under **Dotfiles**, select **Automatically install dotfiles** so that GitHub Codespaces automatically installs your dotfiles into every new codespace you create.
 1. Click **Select repository** and then choose your current skills working repository as the repository from which to install dotfiles.
 
-### :keyboard: Activity: Add a `dotfile` to your repository and run your codespace
+### :keyboard: Activity: Add a `dotfile` to your repository and run your codespace 🚀
 
 1. Start from the landing page of your repository.
 1. Click the **Code** button located in the middle of the page.

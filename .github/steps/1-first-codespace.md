@@ -6,7 +6,7 @@
   Encourage users to open new tabs for steps!
 -->
 
-## Step 1: Create your first codespace and push code
+## Step 1: Create your first codespace and push code 🚀
 
 _Welcome to "Develop code using GitHub Codespaces and Visual Studio Code"! :wave:_
 
@@ -22,7 +22,7 @@ GitHub offers a range of features to help your development team customize a code
 
 To begin developing using GitHub Codespaces, you can create a codespace from a template or from any branch or commit in a repository. When you create a codespace from a template, you can start from a blank template or choose a template suitable for the work you're doing.
 
-### :keyboard: Activity: Start a codespace
+### :keyboard: Activity: Start a codespace 💻
 
 **We recommend opening another browser tab to work through the following activities so you can keep these instructions open for reference.**
 
@@ -36,7 +36,7 @@ To begin developing using GitHub Codespaces, you can create a codespace from a t
 1. Verify your codespace is running. The browser should contain a VS Code web-based editor and a terminal should be present such as the below:
    ![codespace1](https://user-images.githubusercontent.com/26442605/207355196-71aab43f-35a9-495b-bcfe-bf3773c2f1b3.png)
 
-### :keyboard: Activity: Push code to your repository from the codespace
+### :keyboard: Activity: Push code to your repository from the codespace 🚀
 
 1. From inside the codespace in the VS Code explorer window, select the `index.html` file.
 1. Replace the **h1** header with the below:

@@ -4,7 +4,7 @@
   Define terms and link to docs.github.com.
 -->
 
-## Step 2: Add a custom image to your codespace!
+## Step 2: Add a custom image to your codespace! 🖼️
 
 _Nice work! :tada: You created your first codespace and pushed code using VS Code!_
 
@@ -16,7 +16,7 @@ A dev container file is a JSON file that lets you customize the default image th
 
 Let's add a `devcontainer.json` file and add a custom image.
 
-### :keyboard: Activity: Add a .devcontainer.json file to customize your codespace
+### :keyboard: Activity: Add a .devcontainer.json file to customize your codespace 🛠️
 
 1. Navigating back to your **Code** tab of your repository, click the **Add file** drop-down button, and then click `Create new file`.
 1. Type or paste the following in the empty text field prompt to name your file.
