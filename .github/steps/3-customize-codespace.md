@@ -4,7 +4,7 @@
   Define terms and link to docs.github.com.
 -->
 
-## Step 3: Customize your codespace!
+## Step 3: Customize your codespace! 🎨
 
 _Nice work! :tada: You created a codespace with a custom image!_
 
@@ -12,7 +12,7 @@ You can customize your codespace by adding VS code extensions, adding features, 
 
 Let's customize some settings in the `devcontainer.json` file!
 
-### :keyboard: Activity: Add customizations to the `devcontainer` file
+### :keyboard: Activity: Add customizations to the `devcontainer` file 🛠️
 
 1. Navigate to the `.devcontainer/devcontainer.json` file.
 1. Add the following customizations to the body of the file before the last `}`.
@@ -50,7 +50,7 @@ Let's customize some settings in the `devcontainer.json` file!
 
 Next lets add some code to run upon creation of the codespace!
 
-### :keyboard: Activity: Execute code upon creation of the codespace
+### :keyboard: Activity: Execute code upon creation of the codespace 🚀
 
 1. Edit the `.devcontainer/devcontainer.json` file.
 1. Add the following postCreateCommand to the body of the file before the last `}`.
